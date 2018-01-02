@@ -1,10 +1,10 @@
 # course-recommendation-system
 A recommendation system built in Java using Naive Bayes Model.
 
-##Domain:
+## Domain:
 Limited to Grraduate courses of Computer Science Department of Iowa State University. But can be used for any catalog after slight modifications in the Crawling.java
 
-##Team Members:
+## Team Members:
 1. Tanmay Kumar Ghosh, Graduate Student, Iowa State University
 2. Nikhil Bansal, Graduate Student, Iowa State University
 3. Nitesh Gupta, Graduate Student, Iowa State University
