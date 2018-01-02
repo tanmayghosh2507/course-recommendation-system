@@ -2,9 +2,9 @@
 A recommendation system built in Java using Naive Bayes Model.
 
 Team Members:
-1. Tanmay Kumar Ghosh
-2. Nikhil Bansal
-3. Nitesh Gupta
+1. Tanmay Kumar Ghosh, Graduate Student, Iowa State University
+2. Nikhil Bansal, Graduate Student, Iowa State University
+3. Nitesh Gupta, Graduate Student, Iowa State University
 
 1. Unzip the CourseRecommender.zip and import the extracted file.
 2. Run crawler.java to generate the course.tsv course list.
