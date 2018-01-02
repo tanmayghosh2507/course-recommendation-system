@@ -1,12 +1,16 @@
 # course-recommendation-system
 A recommendation system built in Java using Naive Bayes Model.
 
-Team Members:
+##Domain:
+Limited to Grraduate courses of Computer Science Department of Iowa State University. But can be used for any catalog after slight modifications in the Crawling.java
+
+##Team Members:
 1. Tanmay Kumar Ghosh, Graduate Student, Iowa State University
 2. Nikhil Bansal, Graduate Student, Iowa State University
 3. Nitesh Gupta, Graduate Student, Iowa State University
 
-1. Unzip the CourseRecommender.zip and import the extracted file.
+## Instructions on how to run the application:
+1. The source files are located inside src. Import the project and go to src.
 2. Run crawler.java to generate the course.tsv course list.
 3. Run Model.java to generate all model files. It will be added in the source folder.
 4. Run CourseRecommender.java file with the following arguments: title_model title_term_prob desc_model desc_term_prob
