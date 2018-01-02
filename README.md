@@ -15,3 +15,5 @@ Limited to Grraduate courses of Computer Science Department of Iowa State Univer
 3. Run Model.java to generate all model files. It will be added in the source folder.
 4. Run CourseRecommender.java file with the following arguments: title_model title_term_prob desc_model desc_term_prob
 5. Provide your research interest as input after choosing option 2(From console).
+
+Currently, the model files are present in the repository, just for reference. But it is recommended to generate these again using the steps mentioned above due to timely changes in catalog etc.
